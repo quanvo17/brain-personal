@@ -1,0 +1,12 @@
+name: PMP Certification
+icon: null
+color: null
+sort: "modified:desc"
+filters:
+  any:
+    - field: related_to
+      op: contains
+      value: "[[PMP Certification]]"
+    - field: related_to
+      op: contains
+      value: "[[PMP]]"
